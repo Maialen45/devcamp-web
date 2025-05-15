@@ -1,0 +1,34 @@
+/* Helpers */
+.spacer60 {
+    height: 60px;
+    width: 100%;
+}
+
+.spacer10 {
+    height: 10px;
+    width: 100%;
+}
+
+.anchor-link {
+    text-decoration: none;
+}
+
+.anchor-link:focus {
+    outline: none;
+}
+
+.anchor-link::after {
+    display: inline-block;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+  }
+
+.anchor-link h1::after {
+    font-family: Font Awesome 6 Free;
+    font: var(--fa-font-solid);
+    content: ' \f0c1';
+    font-weight: 900;
+}
+
+
+
