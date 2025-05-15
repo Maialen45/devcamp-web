@@ -14,7 +14,7 @@ La página simula un sitio web profesional para un restaurante de patatas fritas
 -   Iconos de redes sociales.
 -   Diseño responsive con estilos personalizados en CSS.
 
-## 🛠️ Tecnologías utilizadas
+## Tecnologías utilizadas
 
 -   HTML5
 -   CSS3
@@ -23,7 +23,7 @@ La página simula un sitio web profesional para un restaurante de patatas fritas
 -   Diseño responsive (media queries)
 -   Google Maps Embed
 
-## 🚀 Cómo usar
+## Cómo usar
 
 1. Clona este repositorio:
     ```bash
