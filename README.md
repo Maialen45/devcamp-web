@@ -2,6 +2,8 @@
 
 Este es el sitio web para un restaurante ficticio llamado **Decamp Fantastic Fries**, desarrollado como parte del curso 'Coding Foundations' de devCamp.
 
+![Captura de pantalla de la aplicación](./Images/devcamp-web.png)
+
 ## Descripción
 
 La página simula un sitio web profesional para un restaurante de patatas fritas. Incluye:
