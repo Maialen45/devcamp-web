@@ -27,6 +27,6 @@ La página simula un sitio web profesional para un restaurante de patatas fritas
 
 1. Clona este repositorio:
     ```bash
-    git clone https://github.com/tu-usuario/decamp-fries.git
+    git clone https://github.com/Maialen45/decamp-web.git
     ```
 2. Abre `index.html` con cualquier navegador para ver el sitio web.
