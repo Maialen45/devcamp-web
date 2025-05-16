@@ -1,4 +1,4 @@
-# Decamp Fantastic Fries
+# Devcamp Fantastic Fries
 
 Este es el sitio web para un restaurante ficticio llamado **Devcamp Fantastic Fries**, desarrollado como parte del curso 'Coding Foundations' de devCamp.
 
