@@ -1,6 +1,6 @@
 # Decamp Fantastic Fries
 
-Este es el sitio web para un restaurante ficticio llamado **Decamp Fantastic Fries**, desarrollado como parte del curso 'Coding Foundations' de devCamp.
+Este es el sitio web para un restaurante ficticio llamado **Devcamp Fantastic Fries**, desarrollado como parte del curso 'Coding Foundations' de devCamp.
 
 ![Captura de pantalla de la aplicación](./Images/devcamp-web.png)
 
@@ -27,6 +27,6 @@ La página simula un sitio web profesional para un restaurante de patatas fritas
 
 1. Clona este repositorio:
     ```bash
-    git clone https://github.com/Maialen45/decamp-web.git
+    git clone https://github.com/Maialen45/devcamp-web.git
     ```
 2. Abre `index.html` con cualquier navegador para ver el sitio web.
